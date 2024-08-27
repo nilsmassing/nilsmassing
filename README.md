@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nils Massing
-- 🌱 I’m interested in skating and programming
-- 👀 I have experiences in creating websites and apps using React, Xcode and Android Studio
-- 🏭 I’m currently studying industrial engineering
+- 🌱 I like skating and programming
+- 👀 I have experiences in creating websites and apps using Next.js
+- 🏭 I studied industrial engineering
 - 📫 nils.ma@yahoo.de
 
 <!---
